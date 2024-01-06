@@ -1,0 +1,32 @@
+{
+  "report": {
+    "2024-01-01": {
+      "jumlah": 1547,
+      "negara": ["Indonesia", "Kamboja", "Jepang"]
+    },
+    "2024-01-02": {
+      "jumlah": 670,
+      "negara": ["Indonesia", "Laos", "Malaysia"]
+    },
+    "2024-01-03": {
+      "jumlah": 150,
+      "negara": ["Indonesia", "Jepang", "Thailand"]
+    },
+    "2024-01-04": {
+      "jumlah": 538,
+      "negara": ["Indonesia", "Filipina", "Timor Leste"]
+    },
+    "2024-01-05": {
+      "jumlah": 762,
+      "negara": ["Indonesia", "China", "Papua Nugini"]
+    },
+    "2024-01-06": {
+      "jumlah": 179,
+      "negara": ["Indonesia", "Myanmar", "Kamboja"]
+    },
+    "2024-01-07": {
+      "jumlah": 335,
+      "negara": ["Indonesia", "Brunei Darussalam", "Australia"]
+    }
+  }
+}
